@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dhiraj Dhotre"
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer: "Copyright 2023, Dhiraj P. Dhotre" 
+  twitter-card: true
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - research.qmd
+      - publications.qmd
+      - team.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,34 @@
+---
+title: Research
+---
+
+## Indian human microbiome initiative
+
+::: {style="text-align: justify"}
+Indian human microbiome initiative (IHMI) is a flagship project of NCCS, Pune and DBT, Government of India. The first phase of this study looks into the gut and oral cavity microbiome of 3400 individuals from 17 endogamous populations spread across the country using targeted amplicon and metagenomic sequencing data; followed by 20,000 individuals in the next phase. Aim of the project is to generate comprehensive dietary and baseline microbiome map of India for comparative analysis which can be further used for multiple aspects of microbiome-based studies in human health, disease and therapies. The project works in parallel with another study looking into genotyping data generated from same individuals which will help to correlate two datasets.
+:::
+
+## Impact of maternal microbiome on infant health
+
+::: {style="text-align: justify"}
+Mother plays a crucial role in acquisition and establishment of infant microbiome, first few weeks after birth. We study the longitudinal impact of maternal gut milk and skin microbiome on development of infant microbiome. Our focus is to study role of maternal microbiome on development of healthy infant microbiome and to track the physiological translocation of bacteria via entero mammary pathway.
+:::
+
+## Indian SARS-CoV-2 Consortium on Genomics
+
+::: {style="text-align: justify"}
+
+We are a part of INSACOG, the forum set up under the Ministry of Health and Family Welfare by the Government of India. Our aim is to study and monitor genome sequencing and virus variation of circulating strains of COVID-19 in India. We carry out whole genome sequencing of SARS-CoV-2 virus, aiding the understanding of how the virus spreads and evolves, and provide information to aid public health response.
+:::
+
+## Microbiome associated with Gluten spectrum disorders
+
+::: {style="text-align: justify"}
+We study intestinal and stool microbiome associated with gluten related disorders such as Celiac disease, non-celiac gluten sensitivity and functional gastrointestinal disorders like irritable bowel syndrome using multi-omics approach. The aim is to study the role of site-specific microbial biomarkers and their role in development of GRDs. Further, to look for novel approaches towards potential diagnostics and therapeutics for GRDs
+:::
+
+## Gut-brain Axis
+
+::: {style="text-align: justify"}
+We Investigate the gut-brain axis dysregulation in individuals with autism spectrum disorder. Our main goal is to understand how the microbiome present in the gastro-intestinal tract affects neurodevelopmental disorders such as autism spectrum disorder. As microbes present in our body produce different secondary metabolites such as short-chain fatty acids that directly regulate brain gene expression.
+:::
