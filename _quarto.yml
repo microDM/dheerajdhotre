@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dhiraj Dhotre"
+  title: "DDOmicsLab"
   page-navigation: true
   back-to-top-navigation: true
   page-footer: "Copyright 2023, Dhiraj P. Dhotre" 
@@ -12,6 +12,7 @@ website:
     background: secondary
     search: true
     left:
+      - dhiraj.qmd
       - research.qmd
       - publications.qmd
       - team.qmd
