@@ -1,0 +1,70 @@
+---
+title: ""
+
+listing:
+  - id: lab_members
+    contents: "people/lab-members"
+    type: grid
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+    grid-columns: 4
+    sort: "order"
+    image-placeholder: "people/img/dummy.jpeg"
+  - id: project_staff
+    contents: "people/project-staff"
+    type: grid
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+    grid-columns: 4
+    sort: "order"
+    image-placeholder: "people/img/dummy.jpeg"
+  - id: technical_staff
+    contents: "people/technical-staff"
+    type: grid
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+    grid-columns: 4
+    sort: "order"
+    image-placeholder: "people/img/dummy.jpeg"
+  - id: alumni
+    contents: "people/alumni"
+    type: grid
+    categories: false
+    image-align: 'right'
+    image-height: '100%'
+    grid-columns: 4
+    sort: "order"
+    image-placeholder: "people/img/dummy.jpeg"
+
+format:
+  html:
+    page-layout: full
+---
+
+```{r echo=FALSE}
+#| out.width: 100%
+knitr::include_graphics('people/img/team.png')
+```
+
+## Lab members
+
+::: {#lab_members}
+:::
+
+## Project staff
+
+::: {#project_staff}
+:::
+
+## Technical staff
+
+::: {#technical_staff}
+:::
+
+## Alumni
+
+::: {#alumni}
+:::

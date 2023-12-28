@@ -1,0 +1,31 @@
+---
+title: "Mitali Inamdar"
+description: "Ph.D. Student"
+image: ../img/mitali.png
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: twitter
+      href: "https://twitter.com/mitali_inamdar"
+      text: Twitter
+
+order: 5
+---
+
+# About
+
+::: {style="text-align: justify"}
+-   Next Generation Sequencing
+
+-   Laboratory Animal Experiments
+
+-   Bacterial 16S amplicon and metagenomic analysis
+:::

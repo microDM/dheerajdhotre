@@ -1,0 +1,98 @@
+---
+title: "Dr. Dhiraj Dhotre"
+description: "Principal Investigator, Scientist 'D'"
+image: ../img/dhiraj.jpg
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:dheeraj@nccs.res.in"
+      text: Mail
+    - icon: twitter
+      href: "https://twitter.com/dhirajdhotre"
+      text: Twitter
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/dhiraj-dhotre-36ab7a75/"
+      text: LinkedIn
+    - icon: google-scholar
+      href: "https://scholar.google.com/citations?hl=en&user=wURU1tQAAAAJ"
+      text: GoogleScholar
+
+order: 1
+---
+
+# About
+
+::: {style="text-align: justify"}
+I am
+:::
+
+# Experience
+
+::: {style="text-align: justify; line-height: 1"}
+-   **Scientist "D"** (July 2021 - present)
+
+    National Centre for Cell Science, Pune.
+
+-   **Senior Research Scientist** (Dec 2019 - July 2021)
+
+    Reliance Life Sciences Pvt. Ltd., Navi Mumbai
+
+-   **Scientist "C"** (Mar 2017 - Dec 2019)
+
+    National Centre for Microbial Resource, National Centre for Cell Science, Pune
+
+-   **Scientist "B"** (May 2009 - Mar 2017)
+
+    Microbial Culture Collection, National Centre for Cell Science, Pune
+:::
+
+# Education
+
+::: {style="text-align: justify; line-height: 1"}
+-   **Ph.D. Biotechnology**, (2006 - 2014)
+
+    Savitribai Phule Pune University (SPPU), Pune.
+
+-   **M.Sc. Bioinformatics**, (2003 - 2005)
+
+    Bioinformatics Centre, SPPU, Pune
+
+-   **B.Sc. Zoology**, (1999 - 2003)
+
+    Mumbai University, Thane
+:::
+
+# Awards
+
+::: {style="text-align: justify; line-height: 1.5"}
+-   Travel award for Management and application of Microbial Data Resource supported by WFCC, UNESCO, WDCM and IMCAS during 2014
+
+-   Indo-Finnish Mobility award 2019 by Academy of Finland
+:::
+
+# Grants
+
+::: {style="text-align: justify"}
+-   Human Microbiome Initiative of Select Endogamous populations in India (BT/PR23968/BRB/10/1602/2017-181), Rs. 24,17,93,311.00
+
+-   Department of Biotechnology "Consortium on Celiac Disease (BT/PR45830/MED/12/963/2022) Rs. 88,07,360.00
+
+-   Genomic Surveillance for SARS-CoV-2 In India: Indian SARS-CoV-2 Genomic Consortium (INSACOG)-Phase II Rs. 89,21,000
+
+-   Establishment of Centre of Excellence for "National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00
+:::
+
+# Funding
+
+::: {style="text-align: justify"}
+Our laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.
+:::

@@ -1,0 +1,34 @@
+---
+title: "Dr. Kunal Dixit"
+description: "Ph.D. Student"
+image: ../img/kunal.png
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+about: 
+  template: trestles
+  links: 
+    - icon: github
+      href: "https://github.com/dixit-kunal"
+      text: GitHub
+    - icon: twitter
+      href: "https://twitter.com/dixitkunal96"
+      text: Twitter
+    - icon: google-scholar
+      href: "https://scholar.google.co.in/citations?user=WZBk69EAAAAJ&hl=en"
+      text: GoogleScholar
+---
+
+## About
+
+::: {style="text-align: justify"}
+
+-   Molecular Biology
+
+-   Analysis and Integration of Multi-omics Datasets
+
+-   Comparative Genomics
+:::

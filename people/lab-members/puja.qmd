@@ -1,0 +1,26 @@
+---
+title: "Puja Ghosh"
+description: "Ph.D. Student"
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+
+order: 4
+---
+
+# About
+
+::: {style="text-align: justify"}
+-   Nucleic acid extraction and purification
+
+-   Anaerobic microbial cultivation
+
+-   Laboratory Animal Experiments
+:::

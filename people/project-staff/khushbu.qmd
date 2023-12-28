@@ -1,0 +1,26 @@
+---
+title: "Khushbu Parihar"
+description: "Project assistant"
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  
+order: 4
+---
+
+# About
+
+::: {style="text-align: justify"}
+-   Covid sequencing and Real time PCR
+
+-   Microbial Cultivation
+
+-   Antimicrobial Susceptibility Testing
+:::

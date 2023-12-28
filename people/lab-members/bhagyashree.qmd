@@ -1,0 +1,26 @@
+---
+title: "Bhagyashree Karmarkar"
+description: "Ph.D. Student"
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+
+order: 6
+---
+
+# About
+
+::: {style="text-align: justify"}
+-   Microbial cultivation
+
+-   In-vivo Microbiome Studies
+:::
+
+# 

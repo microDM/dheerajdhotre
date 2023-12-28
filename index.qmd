@@ -27,5 +27,5 @@ about:
 ------------------------------------------------------------------------
 
 ::: {style="text-align: center"}
-![](img/funds/dbt.png){width="150"} ![](img/funds/dst.png){width="150"} ![](img/funds/bill.png){width="150"}
+![](img/funding/nccs.jpg){width="120"} ![](img/funding/dbt.png){width="120"} ![](img/funding/dst.png){width="150"} ![](img/funding/bill.png){width="150"}
 :::
