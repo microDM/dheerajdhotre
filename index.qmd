@@ -19,13 +19,31 @@ about:
 :::
 
 ::: {style="text-align: center"}
-### In the DD Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach.
+In the DDOmics Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach.
 :::
 
-\
+------------------------------------------------------------------------
+
+### Contact
+
+::: {style="line-height: 0.5"}
+Dr. Dhiraj S. Dhotre,
+
+Scientist 'D',
+
+Lab 3, Old Building,
+
+National Centre for Cell Science,
+
+SPPU, Campus, Pune: 411007.
+
+Email: [ddgroup.lab3\@gmail.com](mailto://ddgroup.lab3@gmail.com)
+
+![](img/twitter_qr.png){width="100"}
+:::
 
 ------------------------------------------------------------------------
 
 ::: {style="text-align: center"}
-![](img/funding/nccs.jpg){width="120"} ![](img/funding/dbt.png){width="120"} ![](img/funding/dst.png){width="150"} ![](img/funding/bill.png){width="150"}
+![](img/funding/nccs.jpg){width="120"}             ![](img/funding/dbt.png){width="120"}     ![](img/funding/dst.png){width="150"}     ![](img/funding/bill.png){width="150"}
 :::

@@ -7,7 +7,9 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   page-footer: "Copyright 2023, Dhiraj P. Dhotre" 
-  twitter-card: true
+  twitter-card:
+    creator: "@DDOmicsLab"
+  open-graph: true
   navbar:
     logo: img/logo2.jpeg
     background: secondary
@@ -16,13 +18,15 @@ website:
       - text: "Home"
         file: index.qmd
       - dhiraj.qmd
-      - research.qmd
+      - text: "Research"
+        file: research.qmd
       - publications.qmd
       - text: "People"
         file: people.qmd
     right: 
       - icon: twitter
         href: "https://twitter.com/DDOmicsLab"
+        
 
 format:
   html:

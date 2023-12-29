@@ -1,234 +1,52 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The microbiome is an integral part of Human Health",
-    "section": "",
-    "text": "The microbiome is an integral part of Human Health\n\n\nIn the DD Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach.\n\n\n\n\n\n   \n\n\n\n Back to top"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "",
     "section": "",
     "text": "Indian human microbiome initiative (IHMI) is a flagship project of NCCS, Pune and DBT, Government of India. The first phase of this study looks into the gut and oral cavity microbiome of 3400 individuals from 17 endogamous populations spread across the country using targeted amplicon and metagenomic sequencing data; followed by 20,000 individuals in the next phase. Aim of the project is to generate comprehensive dietary and baseline microbiome map of India for comparative analysis which can be further used for multiple aspects of microbiome-based studies in human health, disease and therapies. The project works in parallel with another study looking into genotyping data generated from same individuals which will help to correlate two datasets."
   },
   {
     "objectID": "research.html#indian-human-microbiome-initiative",
     "href": "research.html#indian-human-microbiome-initiative",
-    "title": "Research",
+    "title": "",
     "section": "",
     "text": "Indian human microbiome initiative (IHMI) is a flagship project of NCCS, Pune and DBT, Government of India. The first phase of this study looks into the gut and oral cavity microbiome of 3400 individuals from 17 endogamous populations spread across the country using targeted amplicon and metagenomic sequencing data; followed by 20,000 individuals in the next phase. Aim of the project is to generate comprehensive dietary and baseline microbiome map of India for comparative analysis which can be further used for multiple aspects of microbiome-based studies in human health, disease and therapies. The project works in parallel with another study looking into genotyping data generated from same individuals which will help to correlate two datasets."
   },
   {
     "objectID": "research.html#impact-of-maternal-microbiome-on-infant-health",
     "href": "research.html#impact-of-maternal-microbiome-on-infant-health",
-    "title": "Research",
+    "title": "",
     "section": "Impact of maternal microbiome on infant health",
     "text": "Impact of maternal microbiome on infant health\n\nMother plays a crucial role in acquisition and establishment of infant microbiome, first few weeks after birth. We study the longitudinal impact of maternal gut milk and skin microbiome on development of infant microbiome. Our focus is to study role of maternal microbiome on development of healthy infant microbiome and to track the physiological translocation of bacteria via entero mammary pathway."
   },
   {
     "objectID": "research.html#indian-sars-cov-2-consortium-on-genomics",
     "href": "research.html#indian-sars-cov-2-consortium-on-genomics",
-    "title": "Research",
+    "title": "",
     "section": "Indian SARS-CoV-2 Consortium on Genomics",
     "text": "Indian SARS-CoV-2 Consortium on Genomics\n\nWe are a part of INSACOG, the forum set up under the Ministry of Health and Family Welfare by the Government of India. Our aim is to study and monitor genome sequencing and virus variation of circulating strains of COVID-19 in India. We carry out whole genome sequencing of SARS-CoV-2 virus, aiding the understanding of how the virus spreads and evolves, and provide information to aid public health response."
   },
   {
     "objectID": "research.html#microbiome-associated-with-gluten-spectrum-disorders",
     "href": "research.html#microbiome-associated-with-gluten-spectrum-disorders",
-    "title": "Research",
+    "title": "",
     "section": "Microbiome associated with Gluten spectrum disorders",
     "text": "Microbiome associated with Gluten spectrum disorders\n\nWe study intestinal and stool microbiome associated with gluten related disorders such as Celiac disease, non-celiac gluten sensitivity and functional gastrointestinal disorders like irritable bowel syndrome using multi-omics approach. The aim is to study the role of site-specific microbial biomarkers and their role in development of GRDs. Further, to look for novel approaches towards potential diagnostics and therapeutics for GRDs"
   },
   {
     "objectID": "research.html#gut-brain-axis",
     "href": "research.html#gut-brain-axis",
-    "title": "Research",
+    "title": "",
     "section": "Gut-brain Axis",
     "text": "Gut-brain Axis\n\nWe Investigate the gut-brain axis dysregulation in individuals with autism spectrum disorder. Our main goal is to understand how the microbiome present in the gastro-intestinal tract affects neurodevelopmental disorders such as autism spectrum disorder. As microbes present in our body produce different secondary metabolites such as short-chain fatty acids that directly regulate brain gene expression."
   },
   {
-    "objectID": "people.html#lab-members",
-    "href": "people.html#lab-members",
-    "title": "",
-    "section": "Lab members",
-    "text": "Lab members\n\n\n\n\n\n\n\n\n\n\nDr. Dhiraj Dhotre\n\n\nPrincipal Investigator, Scientist ‘D’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Niraj Rane\n\n\nProject Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbhijit Kulkarni\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPuja Ghosh\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitali Inamdar\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBhagyashree Karmarkar\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHarshada Pardeshi\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#project-staff",
-    "href": "people.html#project-staff",
-    "title": "",
-    "section": "Project staff",
-    "text": "Project staff\n\n\n\n\n\n\n\n\n\n\nAditi Deshpande\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArinjay Gire\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChandrakishor Thakare\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhushbu Parihar\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#technical-staff",
-    "href": "people.html#technical-staff",
-    "title": "",
-    "section": "Technical staff",
-    "text": "Technical staff\n\n\n\n\n\n\n\n\n\n\nHemangini Mahadeo\n\n\nTechnician\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nDr. Dattatray S. Mongad\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Kunal Dixit\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/project-staff/khushbu.html",
-    "href": "people/project-staff/khushbu.html",
-    "title": "Khushbu Parihar",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The microbiome is an integral part of Human Health",
     "section": "",
-    "text": "About\n\n\nCovid sequencing and Real time PCR\nMicrobial Cultivation\nAntimicrobial Susceptibility Testing\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/project-staff/aditi.html",
-    "href": "people/project-staff/aditi.html",
-    "title": "Aditi Deshpande",
-    "section": "",
-    "text": "About\n\n\nNext Generation Sequencing\nMicrobial Cultivation\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/puja.html",
-    "href": "people/lab-members/puja.html",
-    "title": "Puja Ghosh",
-    "section": "",
-    "text": "About\n\n\nNucleic acid extraction and purification\nAnaerobic microbial cultivation\nLaboratory Animal Experiments\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/mitali.html",
-    "href": "people/lab-members/mitali.html",
-    "title": "Mitali Inamdar",
-    "section": "",
-    "text": "About\n\n\nNext Generation Sequencing\nLaboratory Animal Experiments\nBacterial 16S amplicon and metagenomic analysis\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/dhiraj.html",
-    "href": "people/lab-members/dhiraj.html",
-    "title": "Dr. Dhiraj Dhotre",
-    "section": "",
-    "text": "About\n\nI am\n\n\n\nExperience\n\n\nScientist “D” (July 2021 - present)\nNational Centre for Cell Science, Pune.\nSenior Research Scientist (Dec 2019 - July 2021)\nReliance Life Sciences Pvt. Ltd., Navi Mumbai\nScientist “C” (Mar 2017 - Dec 2019)\nNational Centre for Microbial Resource, National Centre for Cell Science, Pune\nScientist “B” (May 2009 - Mar 2017)\nMicrobial Culture Collection, National Centre for Cell Science, Pune\n\n\n\n\nEducation\n\n\nPh.D. Biotechnology, (2006 - 2014)\nSavitribai Phule Pune University (SPPU), Pune.\nM.Sc. Bioinformatics, (2003 - 2005)\nBioinformatics Centre, SPPU, Pune\nB.Sc. Zoology, (1999 - 2003)\nMumbai University, Thane\n\n\n\n\nAwards\n\n\nTravel award for Management and application of Microbial Data Resource supported by WFCC, UNESCO, WDCM and IMCAS during 2014\nIndo-Finnish Mobility award 2019 by Academy of Finland\n\n\n\n\nGrants\n\n\nHuman Microbiome Initiative of Select Endogamous populations in India (BT/PR23968/BRB/10/1602/2017-181), Rs. 24,17,93,311.00\nDepartment of Biotechnology “Consortium on Celiac Disease (BT/PR45830/MED/12/963/2022) Rs. 88,07,360.00\nGenomic Surveillance for SARS-CoV-2 In India: Indian SARS-CoV-2 Genomic Consortium (INSACOG)-Phase II Rs. 89,21,000\nEstablishment of Centre of Excellence for “National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00\n\n\n\n\nFunding\n\nOur laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/abhijit.html",
-    "href": "people/lab-members/abhijit.html",
-    "title": "Abhijit Kulkarni",
-    "section": "",
-    "text": "About\n\n\nMolecular Biology\nDiet-Microbe Interactions\nBacterial Cultivation\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumni/datta.html",
-    "href": "people/alumni/datta.html",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "",
-    "text": "I am a Bioinformatician working as “Lead Domain Engineer” at Persistent Systems Limited, Pune. I have done my Ph.D. in Biotechnology from National Centre for Cell Science, Pune. With the focus on microbiome reasearch, I have developed MicFunPred, a tool for conservative functional prediction based on amplicon data."
-  },
-  {
-    "objectID": "people/alumni/datta.html#about",
-    "href": "people/alumni/datta.html#about",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "",
-    "text": "I am a Bioinformatician working as “Lead Domain Engineer” at Persistent Systems Limited, Pune. I have done my Ph.D. in Biotechnology from National Centre for Cell Science, Pune. With the focus on microbiome reasearch, I have developed MicFunPred, a tool for conservative functional prediction based on amplicon data."
-  },
-  {
-    "objectID": "people/alumni/datta.html#education",
-    "href": "people/alumni/datta.html#education",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "Education",
-    "text": "Education\n\n\nPh.D. in Biotechnology (August 2017 - October 2023)\nNational Centre for Cell Science, Pune, India.\nM.Sc. in Bioinformatics (2015 - 2017)\nBioinformatics Centre, SPPU, Pune.\nB.Sc. in Biotechnology (2012 - 2015)\nFergusson College, Pune"
-  },
-  {
-    "objectID": "people/alumni/datta.html#experience",
-    "href": "people/alumni/datta.html#experience",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "Experience",
-    "text": "Experience\n\n\nLead Domain Engineer (Nov 2023 - Present)\nPersistent Systems Limited, Pune, India\nVisiting Scholar (March 2022 - August 2022)\nUniversity of Turku, Finland\nFunctional Bioinformatics Contractor (April 2022 - June 2022)\nDigbi Health, Remote"
-  },
-  {
-    "objectID": "people/alumni/datta.html#skills",
-    "href": "people/alumni/datta.html#skills",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "Skills",
-    "text": "Skills\n\n\nPrgramming\n\nR\nShiny\nPython\n\nWorkflow\n\nSnakemake and Conda\n\nOS\n\nLinux and Windows\n\nData analysis\n\nNGS (Genome, amplicon, metagenome, transcriptome, CHiP-Seq)\nStatistics\n\nGenAI: API, Topic modelling"
-  },
-  {
-    "objectID": "people/alumni/datta.html#achievements",
-    "href": "people/alumni/datta.html#achievements",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "Achievements",
-    "text": "Achievements\n\nAwards\n\n\nBest poster “Probiotic prediction using machine learning”, International Yakult Symposium\nAcademy of Finland, mobility grant (Visiting scholar: March 2022 – Aug 2022), University of Turku.\nDBT-BINC Fellowship\n\n\n\n\nWorkshops\n\n\nStatistical Methods in Microbiome Research, 2019, NCCS, Pune.\n\n\n\n\nConferences\n\n\nInternational Conference on Microbiome Research, 2018, Pune, India\nPresented “MicFunPred” at InBix2021, Remote\nShowcased “MicFunPred” at Microbiome Data Congress, 2022, Remote\nISME 18, Lausanne, Switzerland"
-  },
-  {
-    "objectID": "people/alumni/datta.html#teaching",
-    "href": "people/alumni/datta.html#teaching",
-    "title": "Dr. Dattatray S. Mongad",
-    "section": "Teaching",
-    "text": "Teaching\n\n\n“Viral Genomics and Bioinformatics (Asia), COG-Train” as trainer and conducted a 1 day hands-on on viral metagenomics, 22nd - 26th August, 2022\nDelivered lectures on “Bioinformatics, biological databases, protein structure & analysis, and Next Generation Sequencing” at Fergusson College under the DBT STRIDE program, 25th - 29th July, 2022.\nConducted “Bioinformatics course” at MITCON, Pune, 29th November - 12th December 2021\nDelivered a lecture on “Molecular Phylogeny: Decrypting relations and time” at Fergusson College, Pune, on 17th May 2021."
-  },
-  {
-    "objectID": "dhiraj.html",
-    "href": "dhiraj.html",
-    "title": "Dr. Dhiraj Dhotre",
-    "section": "",
-    "text": "About\n\nI am\n\n\n\nExperience\n\n\nScientist “D” (July 2021 - present)\nNational Centre for Cell Science, Pune.\nSenior Research Scientist (Dec 2019 - July 2021)\nReliance Life Sciences Pvt. Ltd., Navi Mumbai\nScientist “C” (Mar 2017 - Dec 2019)\nNational Centre for Microbial Resource, National Centre for Cell Science, Pune\nScientist “B” (May 2009 - Mar 2017)\nMicrobial Culture Collection, National Centre for Cell Science, Pune\n\n\n\n\nEducation\n\n\nPh.D. Biotechnology, (2006 - 2014)\nSavitribai Phule Pune University (SPPU), Pune.\nM.Sc. Bioinformatics, (2003 - 2005)\nBioinformatics Centre, SPPU, Pune\nB.Sc. Zoology, (1999 - 2003)\nMumbai University, Thane\n\n\n\n\nAwards\n\n\nTravel award for Management and application of Microbial Data Resource supported by WFCC, UNESCO, WDCM and IMCAS during 2014\nIndo-Finnish Mobility award 2019 by Academy of Finland\n\n\n\n\nGrants\n\n\nHuman Microbiome Initiative of Select Endogamous populations in India (BT/PR23968/BRB/10/1602/2017-181), Rs. 24,17,93,311.00\nDepartment of Biotechnology “Consortium on Celiac Disease (BT/PR45830/MED/12/963/2022) Rs. 88,07,360.00\nGenomic Surveillance for SARS-CoV-2 In India: Indian SARS-CoV-2 Genomic Consortium (INSACOG)-Phase II Rs. 89,21,000\nEstablishment of Centre of Excellence for “National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00\n\n\n\n\nFunding\n\nOur laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/alumni/kunal.html",
-    "href": "people/alumni/kunal.html",
-    "title": "Dr. Kunal Dixit",
-    "section": "",
-    "text": "Molecular Biology\nAnalysis and Integration of Multi-omics Datasets\nComparative Genomics"
-  },
-  {
-    "objectID": "people/alumni/kunal.html#about",
-    "href": "people/alumni/kunal.html#about",
-    "title": "Dr. Kunal Dixit",
-    "section": "",
-    "text": "Molecular Biology\nAnalysis and Integration of Multi-omics Datasets\nComparative Genomics"
-  },
-  {
-    "objectID": "people/lab-members/bhagyashree.html",
-    "href": "people/lab-members/bhagyashree.html",
-    "title": "Bhagyashree Karmarkar",
-    "section": "",
-    "text": "About\n\n\nMicrobial cultivation\nIn-vivo Microbiome Studies\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/harshada.html",
-    "href": "people/lab-members/harshada.html",
-    "title": "Harshada Pardeshi",
-    "section": "",
-    "text": "About\n\n\nMolecular Biology\nPhylogenetic Analysis\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/lab-members/niraj.html",
-    "href": "people/lab-members/niraj.html",
-    "title": "Dr. Niraj Rane",
-    "section": "",
-    "text": "About\n\n\nIsolation and purification of bacteria from human and environmental samples\nVirome Sequencing and Analysis\nMetabolomics\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/project-staff/aarinjay.html",
-    "href": "people/project-staff/aarinjay.html",
-    "title": "Arinjay Gire",
-    "section": "",
-    "text": "About\n\n\nNext Generation Sequencing\nIsolation & Identification of Bacteria\nPhylogenetic Analysis\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/project-staff/chandrakishor.html",
-    "href": "people/project-staff/chandrakishor.html",
-    "title": "Chandrakishor Thakare",
-    "section": "",
-    "text": "About\n\n\nSample collection\nRealtime PCR\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "people/technical-staff/hemangini.html",
-    "href": "people/technical-staff/hemangini.html",
-    "title": "Hemangini Mahadeo",
-    "section": "",
-    "text": "About\n\n\nFlow cytometry\n\n\n\n\n\n Back to top"
+    "text": "The microbiome is an integral part of Human Health\n\n\nIn the DDOmics Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach.\n\n\n\nContact\n\nDr. Dhiraj S. Dhotre,\nScientist ‘D’,\nLab 3, Old Building,\nNational Centre for Cell Science,\nSPPU, Campus, Pune: 411007.\nEmail: ddgroup.lab3@gmail.com\n\n\n\n\n                       \n\n\n\n\n Back to top"
   },
   {
     "objectID": "publications.html",
@@ -341,5 +159,194 @@
     "title": "Publications",
     "section": "2007",
     "text": "2007\n\n\nVaishampayan, Parag A., Dhiraj P. Dhotre, Rakeshkumar P. Gupta, Pritesh Lalwani, Hemant Ghate, Milind S. Patole, and Yogesh S. Shouche. “Molecular evidence and phylogenetic affiliations of Wolbachia in cockroaches.” Molecular phylogenetics and evolution 44, no. 3 (2007): 1346-1351.\nPandey, Prashant K., Dhiraj P. Dhotre, Mahesh S. Dharne, Ashok N. Khadse, Umesh I. Hiremath, Ravindra D. Chaudhari, Milind S. Patole, and Yogesh S. Shouche. “Evaluation of mitochondrial 12S rRNA gene in the identification of Panthera pardus fusca (Meyer, 1794) from field-collected scat samples in the Western Ghats, Maharashtra, India.” Current Science (2007): 1129-1133."
+  },
+  {
+    "objectID": "people/technical-staff/hemangini.html",
+    "href": "people/technical-staff/hemangini.html",
+    "title": "Hemangini Mahadeo",
+    "section": "",
+    "text": "About\n\n\nFlow cytometry\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/project-staff/chandrakishor.html",
+    "href": "people/project-staff/chandrakishor.html",
+    "title": "Chandrakishor Thakare",
+    "section": "",
+    "text": "About\n\n\nSample collection\nRealtime PCR\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/project-staff/aarinjay.html",
+    "href": "people/project-staff/aarinjay.html",
+    "title": "Arinjay Gire",
+    "section": "",
+    "text": "About\n\n\nNext Generation Sequencing\nIsolation & Identification of Bacteria\nPhylogenetic Analysis\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/niraj.html",
+    "href": "people/lab-members/niraj.html",
+    "title": "Dr. Niraj Rane",
+    "section": "",
+    "text": "About\n\n\nIsolation and purification of bacteria from human and environmental samples\nVirome Sequencing and Analysis\nMetabolomics\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/harshada.html",
+    "href": "people/lab-members/harshada.html",
+    "title": "Harshada Pardeshi",
+    "section": "",
+    "text": "About\n\n\nMolecular Biology\nPhylogenetic Analysis\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/bhagyashree.html",
+    "href": "people/lab-members/bhagyashree.html",
+    "title": "Bhagyashree Karmarkar",
+    "section": "",
+    "text": "About\n\n\nMicrobial cultivation\nIn-vivo Microbiome Studies\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumni/kunal.html",
+    "href": "people/alumni/kunal.html",
+    "title": "Dr. Kunal Dixit",
+    "section": "",
+    "text": "Molecular Biology\nAnalysis and Integration of Multi-omics Datasets\nComparative Genomics"
+  },
+  {
+    "objectID": "people/alumni/kunal.html#about",
+    "href": "people/alumni/kunal.html#about",
+    "title": "Dr. Kunal Dixit",
+    "section": "",
+    "text": "Molecular Biology\nAnalysis and Integration of Multi-omics Datasets\nComparative Genomics"
+  },
+  {
+    "objectID": "dhiraj.html",
+    "href": "dhiraj.html",
+    "title": "Dr. Dhiraj Dhotre",
+    "section": "",
+    "text": "About\n\nI am\n\n\n\nExperience\n\n\nScientist “D” (July 2021 - present)\nNational Centre for Cell Science, Pune.\nSenior Research Scientist (Dec 2019 - July 2021)\nReliance Life Sciences Pvt. Ltd., Navi Mumbai\nScientist “C” (Mar 2017 - Dec 2019)\nNational Centre for Microbial Resource, National Centre for Cell Science, Pune\nScientist “B” (May 2009 - Mar 2017)\nMicrobial Culture Collection, National Centre for Cell Science, Pune\n\n\n\n\nEducation\n\n\nPh.D. Biotechnology, (2006 - 2014)\nSavitribai Phule Pune University (SPPU), Pune.\nM.Sc. Bioinformatics, (2003 - 2005)\nBioinformatics Centre, SPPU, Pune\nB.Sc. Zoology, (1999 - 2003)\nMumbai University, Thane\n\n\n\n\nAwards\n\n\nTravel award for Management and application of Microbial Data Resource supported by WFCC, UNESCO, WDCM and IMCAS during 2014\nIndo-Finnish Mobility award 2019 by Academy of Finland\n\n\n\n\nGrants\n\n\nHuman Microbiome Initiative of Select Endogamous populations in India (BT/PR23968/BRB/10/1602/2017-181), Rs. 24,17,93,311.00\nDepartment of Biotechnology “Consortium on Celiac Disease (BT/PR45830/MED/12/963/2022) Rs. 88,07,360.00\nGenomic Surveillance for SARS-CoV-2 In India: Indian SARS-CoV-2 Genomic Consortium (INSACOG)-Phase II Rs. 89,21,000\nEstablishment of Centre of Excellence for “National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00\n\n\n\n\nFunding\n\nOur laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/alumni/datta.html",
+    "href": "people/alumni/datta.html",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "",
+    "text": "I am a Bioinformatician working as “Lead Domain Engineer” at Persistent Systems Limited, Pune. I have done my Ph.D. in Biotechnology from National Centre for Cell Science, Pune. With the focus on microbiome reasearch, I have developed MicFunPred, a tool for conservative functional prediction based on amplicon data."
+  },
+  {
+    "objectID": "people/alumni/datta.html#about",
+    "href": "people/alumni/datta.html#about",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "",
+    "text": "I am a Bioinformatician working as “Lead Domain Engineer” at Persistent Systems Limited, Pune. I have done my Ph.D. in Biotechnology from National Centre for Cell Science, Pune. With the focus on microbiome reasearch, I have developed MicFunPred, a tool for conservative functional prediction based on amplicon data."
+  },
+  {
+    "objectID": "people/alumni/datta.html#education",
+    "href": "people/alumni/datta.html#education",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "Education",
+    "text": "Education\n\n\nPh.D. in Biotechnology (August 2017 - October 2023)\nNational Centre for Cell Science, Pune, India.\nM.Sc. in Bioinformatics (2015 - 2017)\nBioinformatics Centre, SPPU, Pune.\nB.Sc. in Biotechnology (2012 - 2015)\nFergusson College, Pune"
+  },
+  {
+    "objectID": "people/alumni/datta.html#experience",
+    "href": "people/alumni/datta.html#experience",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "Experience",
+    "text": "Experience\n\n\nLead Domain Engineer (Nov 2023 - Present)\nPersistent Systems Limited, Pune, India\nVisiting Scholar (March 2022 - August 2022)\nUniversity of Turku, Finland\nFunctional Bioinformatics Contractor (April 2022 - June 2022)\nDigbi Health, Remote"
+  },
+  {
+    "objectID": "people/alumni/datta.html#skills",
+    "href": "people/alumni/datta.html#skills",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "Skills",
+    "text": "Skills\n\n\nPrgramming\n\nR\nShiny\nPython\n\nWorkflow\n\nSnakemake and Conda\n\nOS\n\nLinux and Windows\n\nData analysis\n\nNGS (Genome, amplicon, metagenome, transcriptome, CHiP-Seq)\nStatistics\n\nGenAI: API, Topic modelling"
+  },
+  {
+    "objectID": "people/alumni/datta.html#achievements",
+    "href": "people/alumni/datta.html#achievements",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "Achievements",
+    "text": "Achievements\n\nAwards\n\n\nBest poster “Probiotic prediction using machine learning”, International Yakult Symposium\nAcademy of Finland, mobility grant (Visiting scholar: March 2022 – Aug 2022), University of Turku.\nDBT-BINC Fellowship\n\n\n\n\nWorkshops\n\n\nStatistical Methods in Microbiome Research, 2019, NCCS, Pune.\n\n\n\n\nConferences\n\n\nInternational Conference on Microbiome Research, 2018, Pune, India\nPresented “MicFunPred” at InBix2021, Remote\nShowcased “MicFunPred” at Microbiome Data Congress, 2022, Remote\nISME 18, Lausanne, Switzerland"
+  },
+  {
+    "objectID": "people/alumni/datta.html#teaching",
+    "href": "people/alumni/datta.html#teaching",
+    "title": "Dr. Dattatray S. Mongad",
+    "section": "Teaching",
+    "text": "Teaching\n\n\n“Viral Genomics and Bioinformatics (Asia), COG-Train” as trainer and conducted a 1 day hands-on on viral metagenomics, 22nd - 26th August, 2022\nDelivered lectures on “Bioinformatics, biological databases, protein structure & analysis, and Next Generation Sequencing” at Fergusson College under the DBT STRIDE program, 25th - 29th July, 2022.\nConducted “Bioinformatics course” at MITCON, Pune, 29th November - 12th December 2021\nDelivered a lecture on “Molecular Phylogeny: Decrypting relations and time” at Fergusson College, Pune, on 17th May 2021."
+  },
+  {
+    "objectID": "people/lab-members/abhijit.html",
+    "href": "people/lab-members/abhijit.html",
+    "title": "Abhijit Kulkarni",
+    "section": "",
+    "text": "About\n\n\nMolecular Biology\nDiet-Microbe Interactions\nBacterial Cultivation\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/dhiraj.html",
+    "href": "people/lab-members/dhiraj.html",
+    "title": "Dr. Dhiraj Dhotre",
+    "section": "",
+    "text": "About\n\nI am\n\n\n\nExperience\n\n\nScientist “D” (July 2021 - present)\nNational Centre for Cell Science, Pune.\nSenior Research Scientist (Dec 2019 - July 2021)\nReliance Life Sciences Pvt. Ltd., Navi Mumbai\nScientist “C” (Mar 2017 - Dec 2019)\nNational Centre for Microbial Resource, National Centre for Cell Science, Pune\nScientist “B” (May 2009 - Mar 2017)\nMicrobial Culture Collection, National Centre for Cell Science, Pune\n\n\n\n\nEducation\n\n\nPh.D. Biotechnology, (2006 - 2014)\nSavitribai Phule Pune University (SPPU), Pune.\nM.Sc. Bioinformatics, (2003 - 2005)\nBioinformatics Centre, SPPU, Pune\nB.Sc. Zoology, (1999 - 2003)\nMumbai University, Thane\n\n\n\n\nAwards\n\n\nTravel award for Management and application of Microbial Data Resource supported by WFCC, UNESCO, WDCM and IMCAS during 2014\nIndo-Finnish Mobility award 2019 by Academy of Finland\n\n\n\n\nGrants\n\n\nHuman Microbiome Initiative of Select Endogamous populations in India (BT/PR23968/BRB/10/1602/2017-181), Rs. 24,17,93,311.00\nDepartment of Biotechnology “Consortium on Celiac Disease (BT/PR45830/MED/12/963/2022) Rs. 88,07,360.00\nGenomic Surveillance for SARS-CoV-2 In India: Indian SARS-CoV-2 Genomic Consortium (INSACOG)-Phase II Rs. 89,21,000\nEstablishment of Centre of Excellence for “National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00\n\n\n\n\nFunding\n\nOur laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/mitali.html",
+    "href": "people/lab-members/mitali.html",
+    "title": "Mitali Inamdar",
+    "section": "",
+    "text": "About\n\n\nNext Generation Sequencing\nLaboratory Animal Experiments\nBacterial 16S amplicon and metagenomic analysis\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/lab-members/puja.html",
+    "href": "people/lab-members/puja.html",
+    "title": "Puja Ghosh",
+    "section": "",
+    "text": "About\n\n\nNucleic acid extraction and purification\nAnaerobic microbial cultivation\nLaboratory Animal Experiments\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/project-staff/aditi.html",
+    "href": "people/project-staff/aditi.html",
+    "title": "Aditi Deshpande",
+    "section": "",
+    "text": "About\n\n\nNext Generation Sequencing\nMicrobial Cultivation\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people/project-staff/khushbu.html",
+    "href": "people/project-staff/khushbu.html",
+    "title": "Khushbu Parihar",
+    "section": "",
+    "text": "About\n\n\nCovid sequencing and Real time PCR\nMicrobial Cultivation\nAntimicrobial Susceptibility Testing\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "people.html#lab-members",
+    "href": "people.html#lab-members",
+    "title": "",
+    "section": "Lab members",
+    "text": "Lab members\n\n\n\n\n\n\n\n\n\n\nDr. Dhiraj Dhotre\n\n\nPrincipal Investigator, Scientist ‘D’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Niraj Rane\n\n\nProject Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbhijit Kulkarni\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPuja Ghosh\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMitali Inamdar\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBhagyashree Karmarkar\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHarshada Pardeshi\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#project-staff",
+    "href": "people.html#project-staff",
+    "title": "",
+    "section": "Project staff",
+    "text": "Project staff\n\n\n\n\n\n\n\n\n\n\nAditi Deshpande\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArinjay Gire\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChandrakishor Thakare\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhushbu Parihar\n\n\nProject assistant\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#technical-staff",
+    "href": "people.html#technical-staff",
+    "title": "",
+    "section": "Technical staff",
+    "text": "Technical staff\n\n\n\n\n\n\n\n\n\n\nHemangini Mahadeo\n\n\nTechnician\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n\n\n\n\n\n\n\n\nDr. Dattatray S. Mongad\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Kunal Dixit\n\n\nPh.D. Student\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "The microbiome is an integral part of Human Health",
+    "section": "Contact",
+    "text": "Contact"
   }
 ]

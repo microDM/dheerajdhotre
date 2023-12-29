@@ -45,7 +45,7 @@ format:
 ---
 
 ```{r echo=FALSE}
-#| out.width: 100%
+#| out.width: 80%
 knitr::include_graphics('people/img/team.png')
 ```
 

@@ -1,5 +1,17 @@
 ---
-title: Research
+title: ""
+image: img/wordcloud.png
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 30px
+      body-width: 1000px
+    
+about: 
+  template: marquee
+  image-width: 50em
 ---
 
 ## Indian human microbiome initiative
@@ -17,7 +29,6 @@ Mother plays a crucial role in acquisition and establishment of infant microbiom
 ## Indian SARS-CoV-2 Consortium on Genomics
 
 ::: {style="text-align: justify"}
-
 We are a part of INSACOG, the forum set up under the Ministry of Health and Family Welfare by the Government of India. Our aim is to study and monitor genome sequencing and virus variation of circulating strains of COVID-19 in India. We carry out whole genome sequencing of SARS-CoV-2 virus, aiding the understanding of how the virus spreads and evolves, and provide information to aid public health response.
 :::
 

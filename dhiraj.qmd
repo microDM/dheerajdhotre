@@ -1,7 +1,7 @@
 ---
 title: "Dr. Dhiraj Dhotre"
 subtitle: "Scientist 'D', NCCS, Pune"
-image: avatar.jpg
+image: people/img/avatar.jpg
 
 format: 
   html:
