@@ -96,9 +96,3 @@ I am
 
 -   Establishment of Centre of Excellence for "National Centre for Microbial Resource (BT/COORD.II/01/03/2016-179) Rs. 1,184,285,291.00
 :::
-
-# Funding
-
-::: {style="text-align: justify"}
-Our laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.
-:::
