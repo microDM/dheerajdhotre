@@ -11,7 +11,7 @@ website:
     creator: "@DDOmicsLab"
   open-graph: true
   navbar:
-    logo: img/logo4.jpeg
+    logo: img/logo5.jpeg
     background: secondary
     search: true
     left:
@@ -24,6 +24,8 @@ website:
       - publications.qmd
       - text: "People"
         file: people.qmd
+      - text: "Join"
+        file: join.qmd
     right: 
       - icon: twitter
         href: "https://twitter.com/DDOmicsLab"

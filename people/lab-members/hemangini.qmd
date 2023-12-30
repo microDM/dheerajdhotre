@@ -1,6 +1,6 @@
 ---
 title: "Hemangini Mahadeo"
-description: "Technician"
+description: "Technical officer"
 
 format: 
   html:

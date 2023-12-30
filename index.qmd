@@ -20,8 +20,12 @@ about:
 # The microbiome is an integral part of Human Health
 :::
 
-::: {style="text-align: center"}
-In the DDOmics Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach.
+::: {style="text-align: center; font-size: 20px"}
+Human body harbors microbial cells in 1:1 proportion to human cells and these microbes are involved in host activities including metabolism, immune modulation and production of antimicrobial agents. Imbalance in microbial communities associated with the host has been observed in multiple diseases as well as metabolic disorders.
+
+In the DDOmics Lab, we study microbial community structure and function in human health and diseases using classic microbiology techniques, next generation sequencing and multi-omics data integration approach. Our areas of focus are Mcirobiome of Indian healthy communities, Microbiome of gluten spectrum disorders, Mother and infant microbiome, Gut-brain axis, and Surveillance of SARS-CoV-2.
+
+The lab is located at National Centre for Cell Science (NCCS) inside Savitribai Phule Pune University (SPPU) campus in the city of Pune
 :::
 
 ------------------------------------------------------------------------
@@ -49,7 +53,7 @@ National Centre for Cell Science,
 
 SPPU, Campus, Pune: 411007.
 
-Email: [ddgroup.lab3\@gmail.com](mailto://ddgroup.lab3@gmail.com)
+Email: [dheeraj\@nccs.res.in](mailto://dheeraj@nccs.res.in)
 
 ![](img/twitter_qr.png){width="100"}
 

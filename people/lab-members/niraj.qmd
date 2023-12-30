@@ -28,9 +28,5 @@ order: 2
 # About
 
 ::: {style="text-align: justify"}
--   Isolation and purification of bacteria from human and environmental samples
-
--   Virome Sequencing and Analysis
-
--   Metabolomics
+Dr. Niraj Rane is currently working as a Project Scientist at NCCS. Previously he worked as Post-Doctoral Researcher at Hanyang University (HYU), Seoul, South Korea. He received his doctoral degree (2017) in Biotechnology from Shivaji University, India. Then, he worked as Postdoctoral Fellow at Savitribai Phule Pune University through UGC-Dr. D.S. Kothari fellowship before joining HYU. His current research mainly focusses on Metabolomics, Virome sequencing and analysis, and Isolation and preservation of microbes from human and environmental samples. He has published more than 30 research articles in high impact international journals such as Water Research, Chemical Engineering Journal, Molecular Therapy, Bioresource Technology, Scientific Reports, Journal of Hazardous Materials etc. with h-index: 15, i10 index: 22, total citations: 1065. He has received the best research paper presentation award (2015) in international conference organized by CSIR-NCL, India and given oral presentations in international conferences at USA, China and South Korea.
 :::

@@ -36,6 +36,8 @@ order: 1
 # About
 
 ::: {style="text-align: justify"}
+Dr. Dhiraj Dhotre is a bioinformatician with research interest in the field of human microbiome. His lab focuses on investigating the role of human microbiome in health and disease using genomics, metabolomics and culturomics approaches. He believes it is crucial to study taxonomic, functional and metabolic structure of the microbiome to understand the true potential and consequences of alterations in the microbiome. His group work for generating high-throughput sequencing data, computational analyses of multi-dimensional omics data along with molecular and in-vivo experimentation framework to understand the potential of human microbiome in diagnostics and therapeutics.
+
 I am
 :::
 

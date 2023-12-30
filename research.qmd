@@ -16,7 +16,7 @@ about:
 ---
 
 ::: {style="text-align: center"}
-![](img/wordcloud.png){fig-align="center" width="600"}
+![](img/wordcloud.png){fig-align="center" width="700"}
 :::
 
 ## Indian human microbiome initiative

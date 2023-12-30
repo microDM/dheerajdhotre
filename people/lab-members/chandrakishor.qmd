@@ -1,6 +1,6 @@
 ---
 title: "Chandrakishor Thakare"
-description: "Project assistant"
+description: "Labratory technician"
 
 format: 
   html:

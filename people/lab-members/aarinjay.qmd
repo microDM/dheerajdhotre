@@ -1,6 +1,6 @@
 ---
 title: "Arinjay Gire"
-description: "Project assistant"
+description: "Labratory technician"
 
 format: 
   html:
