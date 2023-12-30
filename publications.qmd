@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+filters:
+  - openlinksinnewpage
 ---
 
 ## 2023
@@ -117,7 +119,7 @@ title: "Publications"
 ::: {style="text-align: justify"}
 -   Ghattargi, Vikas C., Meghana A. Gaikwad, Bharati S. Meti, Yogesh S. Nimonkar, Kunal Dixit, Om Prakash, Yogesh S. Shouche, Shrikant P. Pawar, and **Dhiraj P. Dhotre**. "Comparative genome analysis reveals key genetic factors associated with probiotic property in Enterococcus faecium strains." *BMC genomics* 19, no. 1 (2018): 1-16.
 
--   Jani, Kunal, **Dhiraj Dhotre**, Jayashree Bandal, Yogesh Shouche, Mangesh Suryavanshi, Vinay Rale, and Avinash Sharma. "World\'s largest mass bathing event influences the bacterial communities of Godavari, a holy river of India." *Microbial ecology* 76 (2018): 706-718.
+-   Jani, Kunal, **Dhiraj Dhotre**, Jayashree Bandal, Yogesh Shouche, Mangesh Suryavanshi, Vinay Rale, and Avinash Sharma. "World's largest mass bathing event influences the bacterial communities of Godavari, a holy river of India." *Microbial ecology* 76 (2018): 706-718.
 :::
 
 ## 2017

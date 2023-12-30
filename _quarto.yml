@@ -11,13 +11,14 @@ website:
     creator: "@DDOmicsLab"
   open-graph: true
   navbar:
-    logo: img/logo2.jpeg
+    logo: img/logo4.jpeg
     background: secondary
     search: true
     left:
       - text: "Home"
         file: index.qmd
-      - dhiraj.qmd
+      - text: "Dr. Dhiraj Dhotre"
+        file: people/lab-members/dhiraj.qmd
       - text: "Research"
         file: research.qmd
       - publications.qmd

@@ -1,0 +1,27 @@
+---
+title: "Hemangini Mahadeo"
+description: "Technician"
+
+format: 
+  html:
+    page-layout: full
+    grid:
+      sidebar-width: 3px
+      body-width: 1100px
+
+about: 
+  template: trestles
+  links: 
+    - icon: envelope
+      href: "mailto:hemanginims@nccs.res.in"
+      text: Mail
+      target: _blank
+  
+order: 12
+---
+
+# About
+
+::: {style="text-align: justify"}
+-   Flow cytometry
+:::

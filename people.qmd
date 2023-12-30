@@ -11,24 +11,6 @@ listing:
     grid-columns: 4
     sort: "order"
     image-placeholder: "people/img/dummy.jpeg"
-  - id: project_staff
-    contents: "people/project-staff"
-    type: grid
-    categories: false
-    image-align: 'right'
-    image-height: '100%'
-    grid-columns: 4
-    sort: "order"
-    image-placeholder: "people/img/dummy.jpeg"
-  - id: technical_staff
-    contents: "people/technical-staff"
-    type: grid
-    categories: false
-    image-align: 'right'
-    image-height: '100%'
-    grid-columns: 4
-    sort: "order"
-    image-placeholder: "people/img/dummy.jpeg"
   - id: alumni
     contents: "people/alumni"
     type: grid
@@ -44,24 +26,13 @@ format:
     page-layout: full
 ---
 
-```{r echo=FALSE}
-#| out.width: 80%
-knitr::include_graphics('people/img/team.png')
-```
+::: {style="text-align: center"}
+![](people/img/team.png){fig-align="center" width="800"}
+:::
 
 ## Lab members
 
 ::: {#lab_members}
-:::
-
-## Project staff
-
-::: {#project_staff}
-:::
-
-## Technical staff
-
-::: {#technical_staff}
 :::
 
 ## Alumni

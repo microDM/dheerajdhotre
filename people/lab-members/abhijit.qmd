@@ -16,9 +16,11 @@ about:
     - icon: google-scholar
       href: "https://scholar.google.co.in/citations?user=FFp1WC8AAAAJ&hl=en"
       text: GoogleScholar
+      target: _blank
     - icon: twitter
       href: "https://twitter.com/ask_microbe"
       text: Twitter
+      target: _blank
 
 order: 3
 ---

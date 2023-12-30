@@ -14,18 +14,20 @@ about:
     - icon: github
       href: "https://github.com/dixit-kunal"
       text: GitHub
+      target: _blank
     - icon: twitter
       href: "https://twitter.com/dixitkunal96"
       text: Twitter
+      target: _blank
     - icon: google-scholar
       href: "https://scholar.google.co.in/citations?user=WZBk69EAAAAJ&hl=en"
       text: GoogleScholar
+      target: _blank
 ---
 
 ## About
 
 ::: {style="text-align: justify"}
-
 -   Molecular Biology
 
 -   Analysis and Integration of Multi-omics Datasets

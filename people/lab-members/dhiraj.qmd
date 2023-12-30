@@ -16,15 +16,19 @@ about:
     - icon: envelope
       href: "mailto:dheeraj@nccs.res.in"
       text: Mail
+      target: _blank
     - icon: twitter
       href: "https://twitter.com/dhirajdhotre"
       text: Twitter
+      target: _blank
     - icon: linkedin
       href: "https://www.linkedin.com/in/dhiraj-dhotre-36ab7a75/"
       text: LinkedIn
+      target: _blank
     - icon: google-scholar
       href: "https://scholar.google.com/citations?hl=en&user=wURU1tQAAAAJ"
       text: GoogleScholar
+      target: _blank
 
 order: 1
 ---

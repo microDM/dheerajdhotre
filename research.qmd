@@ -1,6 +1,5 @@
 ---
 title: ""
-image: img/wordcloud.png
 
 format: 
   html:
@@ -8,11 +7,17 @@ format:
     grid:
       sidebar-width: 30px
       body-width: 1000px
-    
+filters:
+  - openlinksinnewpage
+  
 about: 
   template: marquee
   image-width: 50em
 ---
+
+::: {style="text-align: center"}
+![](img/wordcloud.png){fig-align="center" width="600"}
+:::
 
 ## Indian human microbiome initiative
 

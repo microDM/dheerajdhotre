@@ -14,18 +14,23 @@ about:
     - icon: envelope
       href: "mailto:datta.mongad@gmail.com"
       text: Mail
+      target: _blank
     - icon: github
       href: "https://github.com/microDM"
       text: GitHub
+      target: _blank
     - icon: twitter
       href: "https://twitter.com/DattatrayMongad"
       text: Twitter
+      target: _blank
     - icon: linkedin
       href: "https://www.linkedin.com/in/dattatraymongad/"
       text: LinkedIn
+      target: _blank
     - icon: google-scholar
       href: "https://scholar.google.com/citations?user=yUGW3-YAAAAJ&hl=en"
       text: GoogleScholar
+      target: _blank
 ---
 
 ## About

@@ -1,6 +1,6 @@
 ---
 title: ""
-image: img/home_background.png
+image: img/home.jpeg
 toc: false
 
 format: 
@@ -9,6 +9,8 @@ format:
     grid:
       sidebar-width: 3px
       body-width: 1100px
+filters:
+  - openlinksinnewpage
     
 about: 
   template: marquee
@@ -24,9 +26,19 @@ In the DDOmics Lab, we study microbial community structure and function in human
 
 ------------------------------------------------------------------------
 
+::: {style="text-align: center"}
+Our laboratory is funded by Department of Biotechnology, Department of Science and Technology and Science and Engineering Research Board, New Delhi.
+
+![](img/funding/nccs.jpg){width="120"}             ![](img/funding/dbt.png){width="120"}     ![](img/funding/dst.png){width="150"}     ![](img/funding/bill.png){width="150"}
+:::
+
+------------------------------------------------------------------------
+
+### 
+
+::: {style="line-height: 0.5; text-align:center"}
 ### Contact
 
-::: {style="line-height: 0.5"}
 Dr. Dhiraj S. Dhotre,
 
 Scientist 'D',
@@ -40,10 +52,6 @@ SPPU, Campus, Pune: 411007.
 Email: [ddgroup.lab3\@gmail.com](mailto://ddgroup.lab3@gmail.com)
 
 ![](img/twitter_qr.png){width="100"}
-:::
 
-------------------------------------------------------------------------
-
-::: {style="text-align: center"}
-![](img/funding/nccs.jpg){width="120"}             ![](img/funding/dbt.png){width="120"}     ![](img/funding/dst.png){width="150"}     ![](img/funding/bill.png){width="150"}
+![](img/x.webp){width="30"} @DDOmicsLab
 :::

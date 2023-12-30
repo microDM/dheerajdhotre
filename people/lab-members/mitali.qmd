@@ -16,6 +16,7 @@ about:
     - icon: twitter
       href: "https://twitter.com/mitali_inamdar"
       text: Twitter
+      target: _blank
 
 order: 5
 ---

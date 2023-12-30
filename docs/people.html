@@ -92,62 +92,6 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-project_staff .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-project_staff'] = new List('listing-project_staff', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-technical_staff .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-technical_staff'] = new List('listing-technical_staff', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-alumni .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -195,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/logo2.jpeg" alt="" class="navbar-logo">
+    <img src="./img/logo4.jpeg" alt="" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -209,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./dhiraj.html" rel="" target="">
+    <a class="nav-link" href="./people/lab-members/dhiraj.html" rel="" target="">
  <span class="menu-text">Dr.&nbsp;Dhiraj Dhotre</span></a>
   </li>  
   <li class="nav-item">
@@ -248,8 +192,6 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lab-members" id="toc-lab-members" class="nav-link active" data-scroll-target="#lab-members">Lab members</a></li>
-  <li><a href="#project-staff" id="toc-project-staff" class="nav-link" data-scroll-target="#project-staff">Project staff</a></li>
-  <li><a href="#technical-staff" id="toc-technical-staff" class="nav-link" data-scroll-target="#technical-staff">Technical staff</a></li>
   <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
   </ul>
 </nav>
@@ -259,16 +201,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="cell">
-<div class="cell-output-display">
-<p><img src="people/img/team.png" class="img-fluid" style="width:80.0%"></p>
+<div style="text-align: center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="people/img/team.png" class="img-fluid figure-img" width="800"></p>
+</figure>
 </div>
 </div>
 <section id="lab-members" class="level2">
 <h2 class="anchored" data-anchor-id="lab-members">Lab members</h2>
 <div id="listing-lab_members" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703795000128" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703916626093" data-listing-reading-time-sort="2">
 <a href="./people/lab-members/dhiraj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -290,7 +234,7 @@ Principal Investigator, Scientist ‘D’
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1703794926544" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1703916768214" data-listing-reading-time-sort="1">
 <a href="./people/lab-members/niraj.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -312,7 +256,7 @@ Project Scientist
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1703795261735" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1703916645447" data-listing-reading-time-sort="1">
 <a href="./people/lab-members/abhijit.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -356,7 +300,7 @@ Ph.D.&nbsp;Student
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1703795828015" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1703916756969" data-listing-reading-time-sort="1">
 <a href="./people/lab-members/mitali.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -422,18 +366,8 @@ Ph.D.&nbsp;Student
 </div>
 </a>
 </div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="project-staff" class="level2">
-<h2 class="anchored" data-anchor-id="project-staff">Project staff</h2>
-<div id="listing-project_staff" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703796119618" data-listing-reading-time-sort="1">
-<a href="./people/project-staff/aditi.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1703880429077" data-listing-reading-time-sort="1">
+<a href="./people/lab-members/aditi.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="people/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
@@ -454,8 +388,8 @@ Project assistant
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1703796258319" data-listing-reading-time-sort="1">
-<a href="./people/project-staff/aarinjay.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1703880439072" data-listing-reading-time-sort="1">
+<a href="./people/lab-members/aarinjay.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="people/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
@@ -476,8 +410,8 @@ Project assistant
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1703796329768" data-listing-reading-time-sort="1">
-<a href="./people/project-staff/chandrakishor.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1703880451457" data-listing-reading-time-sort="1">
+<a href="./people/lab-members/chandrakishor.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="people/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
@@ -498,8 +432,8 @@ Project assistant
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1703796412788" data-listing-reading-time-sort="1">
-<a href="./people/project-staff/khushbu.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1703880460545" data-listing-reading-time-sort="1">
+<a href="./people/lab-members/khushbu.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="people/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
@@ -520,18 +454,8 @@ Project assistant
 </div>
 </a>
 </div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
-</section>
-<section id="technical-staff" class="level2">
-<h2 class="anchored" data-anchor-id="technical-staff">Technical staff</h2>
-<div id="listing-technical_staff" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703797041987" data-listing-reading-time-sort="1">
-<a href="./people/technical-staff/hemangini.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1703916739153" data-listing-reading-time-sort="1">
+<a href="./people/lab-members/hemangini.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="people/img/dummy.jpeg" class="thumbnail-image card-img" style="height: 100%;">
@@ -562,7 +486,7 @@ No matching items
 <h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
 <div id="listing-alumni" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703797287701" data-listing-reading-time-sort="3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1703916798558" data-listing-reading-time-sort="3">
 <a href="./people/alumni/datta.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -584,7 +508,7 @@ Ph.D.&nbsp;Student
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1703797466893" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1703916813686" data-listing-reading-time-sort="1">
 <a href="./people/alumni/kunal.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

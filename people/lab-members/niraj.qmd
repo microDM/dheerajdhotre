@@ -16,9 +16,11 @@ about:
     - icon: envelope
       href: "mailto:NirajR123@gmail.com"
       text: Mail
+      target: _blank
     - icon: google-scholar
       href: "https://scholar.google.co.in/citations?user=QTmiVfYAAAAJ&hl=en"
       text: GoogleScholar
+      target: _blank
 
 order: 2
 ---
