@@ -53,7 +53,7 @@ National Centre for Cell Science,
 
 SPPU, Campus, Pune: 411007.
 
-Email: [dheeraj\@nccs.res.in](mailto://dheeraj@nccs.res.in)
+Email: [dhiraj.dhotre\@nccs.res.in](mailto://dhiraj.dhotre@nccs.res.in)
 
 ![](img/twitter_qr.png){width="100"}
 

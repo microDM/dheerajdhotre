@@ -10,7 +10,11 @@ format:
       body-width: 1100px
 about: 
   template: trestles
-  links: 
+  links:
+    - icon: envelope
+      href: "mailto:dixitkunal96@gmail.com"
+      text: Mail
+      target: _blank
     - icon: github
       href: "https://github.com/dixit-kunal"
       text: GitHub
@@ -28,9 +32,31 @@ about:
 ## About
 
 ::: {style="text-align: justify"}
--   Molecular Biology
+I am a Microbiologist and my doctoral research focused on investigating patients with NCGS and IBS for site specific (small intestinal, large intestinal and stool) microbiome differences using multi-omics approach; given the overlapping manifestations of these disorders and lack of genetic and serological biomarkers for NCGS. I also studied effect of gluten free diet on gut microbiome of NCGS patients.
+:::
 
--   Analysis and Integration of Multi-omics Datasets
+## Skills
 
--   Comparative Genomics
+### Laboratory
+
+::: {style="text-align: justify"}
+-   Bacterial isolation, Cultivation, Identification and Purification
+
+-   Nucleic Acid extraction and purification
+
+-   NGS library preparation
+
+-   Laboratory animal experiments
+:::
+
+### Bioinformatics
+
+::: {style="text-align: justify"}
+-   16S rRNA gene amplicon, Shotgun metagenomics data analysis
+
+-   Integration of Multi-omics Datasets
+
+-   Comparative genomics
+
+-   Metabolomics (GCMS/LCMS) data analysis
 :::
