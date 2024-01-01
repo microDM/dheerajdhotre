@@ -4,6 +4,14 @@ filters:
   - openlinksinnewpage
 ---
 
-Highly motivated scientists interested in Human microbiome research with strong background in NGS, data analysis, metabolomics, anaerobic isolation and characterization and animal studies are always encouraged to apply for post-doc positions.
+::: {style="text-align: center"}
+![](img/join.jpeg){fig-align="center" width="500"}
+:::
 
-Students interested in MS/M.Sc project training projects (6-12 months), please email [dhiraj.dhotre\@nccs.res.in](mailto://dhiraj.dhotre@nccs.res.in) or [academics\@nccs.res.in](mailto://academics@nccs.res.in)
+::: {style="text-align: center"}
+We are searching for scientists interested in Human microbiome research with strong background in NGS, data analysis, metabolomics, anaerobic isolation and characterization and animal studies are always encouraged to apply for post-doctoral positions.
+
+Highly motivated students who are interested to pursue their doctoral research on different aspects of microbiome research are encouraged to join our lab. Applications are accepted through Ph.D. program of NCCS
+
+Students interested in MS/M.Sc. project training projects (6-12 months), please email [dhiraj.dhotre\@nccs.res.in](mailto://dhiraj.dhotre@nccs.res.in) or [academics\@nccs.res.in](mailto://academics@nccs.res.in)
+:::
